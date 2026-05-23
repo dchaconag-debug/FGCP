@@ -20,12 +20,6 @@ El sistema gestiona la información de:
 - Modelo Entidad-Relación (incluye archivo `.mwb` de MySQL Workbench para visualización del diagrama)
 - Restricciones de integridad referencial (claves foráneas, constraints)
 
-## Archivos
-
-| Archivo | Descripción |
-|---|---|
-| `Fundacion.sql` | Script completo: creación de tablas, relaciones e inserción de datos |
-
 ## Cómo usar
 
 1. Abre Oracle SQL Developer o cualquier cliente compatible con Oracle 11g
