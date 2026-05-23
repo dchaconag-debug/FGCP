@@ -1,4 +1,4 @@
-# Base de datos — Fundación de rehabilitación
+# Base de datos — Fundación Generación Con Proposito
 
 Base de datos relacional diseñada en Oracle SQL para la gestión integral de una fundación de rehabilitación. Proyecto universitario de Bases de Datos — Universidad Nacional de Colombia.
 
